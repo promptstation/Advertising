@@ -1,0 +1,24 @@
+{
+  "course_number": 1,
+  "course_title": "Behavioral Economics",
+  "folder": "01-Behavioral-Economics",
+  "discipline_framing": "The behavioral-science foundation of high-converting advertising — cognitive biases, choice architecture, and the empirical study of why people buy, spanning the bounded-rationality revolution of Simon, Kahneman and Tversky, and Thaler through to applied persuasion design, pricing psychology, and the ethical boundaries separating influence from manipulation in campaign practice.",
+  "domain_short": "Behavioral Economics",
+  "audience": "Aspiring advertising strategists, campaign planners, conversion-rate optimizers, and brand marketers who need the scientific grounding behind why consumers choose, and who will design campaigns, offers, and customer journeys that work with actual human decision machinery rather than an imaginary rational agent.",
+  "sources": [
+    "Daniel Kahneman, Thinking, Fast and Slow — the canonical synthesis of dual-process cognition, heuristics and biases, and prospect theory from the research program's founder",
+    "Richard Thaler & Cass Sunstein, Nudge — choice architecture, defaults, and libertarian paternalism as the applied framework for designing decision environments",
+    "Robert Cialdini, Influence: The Psychology of Persuasion — the six (later seven) principles of persuasion with decades of compliance research behind them",
+    "Dan Ariely, Predictably Irrational — systematic irrationality in pricing, ownership, expectations, and social versus market norms",
+    "Sheena Iyengar, The Art of Choosing — choice overload, the jam study lineage, and the architecture of option sets",
+    "Journal of Consumer Research / Journal of Marketing Research — peer-reviewed effect sizes, boundary conditions, and replication findings for behavioral effects in consumption contexts",
+    "U.S. Federal Trade Commission, Bringing Dark Patterns to Light staff report — regulatory taxonomy of manipulative interface and offer design"
+  ],
+  "pitfalls": [
+    "Bias-name-dropping: reciting cognitive biases as vocabulary while never designing an actual intervention, offer structure, or message that leverages or mitigates them",
+    "Lab-to-market leap: applying clean experimental effects with published effect sizes to noisy, distracted, multi-touch marketplace conditions without field validation",
+    "Dark-pattern drift: optimizing conversion metrics until persuasion quietly becomes manipulation — confirmshaming, forced continuity, hidden costs — accumulating regulatory and brand risk",
+    "Context-blind application: assuming a principle like scarcity or social proof transfers unchanged across categories, cultures, price points, and purchase involvement levels when boundary conditions dominate",
+    "Nudge-only myopia: fine-tuning behavioral levers on messaging and interface while ignoring the structural facts — product quality, price, brand equity, distribution — that behavior design can amplify but cannot replace"
+  ]
+}
