@@ -1,0 +1,24 @@
+{
+  "course_number": 3,
+  "course_title": "Predictive Analytics & Big Data",
+  "folder": "03-Predictive-Analytics-and-Big-Data",
+  "discipline_framing": "The data-analytics discipline of modern advertising — analyzing massive consumer datasets, spotting emerging trends, and forecasting market demand before it happens, spanning the advertising data ecosystem and its privacy-era transformation, data infrastructure and quality, statistical and machine-learning foundations, segmentation, customer-value and churn modeling, trend detection, demand forecasting, attribution and marketing-mix modeling, and the ethics of algorithmic marketing.",
+  "domain_short": "Predictive Analytics & Big Data",
+  "audience": "Aspiring advertising analysts, marketing data scientists, performance marketers, agency planners, and brand strategists who must turn campaign platforms, customer data, and market signals into forecasts and decisions — and who need enough engineering and statistical literacy to know when a number deserves budget.",
+  "sources": [
+    "Foster Provost & Tom Fawcett, Data Science for Business — the conceptual framework of data-analytic thinking, evaluation, and overfitting that organizes the whole discipline",
+    "Rob Hyndman & George Athanasopoulos, Forecasting: Principles and Practice — the standard treatment of time-series methods, seasonality, and forecast evaluation",
+    "Ron Kohavi, Diane Tang & Ya Xu, Trustworthy Online Controlled Experiments — the definitive practice of A/B testing, metrics architecture, and experimentation pitfalls",
+    "Meta Robyn and Google Meridian open-source marketing-mix-modeling frameworks with their practitioner documentation — the working reference implementations of MMM in the privacy era",
+    "GDPR and CCPA/CPRA regulatory texts with IAPP and regulator guidance on consent, profiling, and automated decision-making",
+    "Cathy O'Neil, Weapons of Math Destruction — the canonical critique of algorithmic bias, opacity, and feedback loops in commercial scoring systems",
+    "Stephen Few, Show Me the Numbers / Edward Tufte traditions — the design standards for tables, charts, and analytic communication"
+  ],
+  "pitfalls": [
+    "Data-hoarder syndrome: collecting every available dataset and dashboard metric while no decision ever waits on an analysis — volume mistaken for insight",
+    "Correlation-pitching: presenting spurious associations and in-sample patterns as consumer truth because causality checks, baselines, and holdout validation never happened",
+    "Vanity-metric optimization: driving click-through and engagement numbers through targeting tricks while incrementality, customer lifetime value, and brand health decay unmeasured",
+    "Privacy-afterthought building: architecting programs on identifier and tracking foundations that consent regulation and platform deprecation have already invalidated, forcing expensive rebuilds",
+    "Black-box deployment: shipping models nobody can explain to the business, without drift monitoring or fallback logic, until silent degradation corrupts spend decisions"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "course_number": 4,
+  "course_title": "Media Mathematics & Algorithmic Targeting",
+  "folder": "04-Media-Mathematics-and-Algorithmic-Targeting",
+  "discipline_framing": "The engineering-and-economics discipline of digital media buying — ad exchanges, programmatic auctions, social media ranking algorithms, bidding and budget systems, targeting machinery, signal infrastructure, and supply-chain transparency — whose mastery ensures every dollar spent reaches the user most likely to convert while surviving the fraud, opacity, and privacy-era signal loss that define the modern advertising ecosystem.",
+  "domain_short": "Media Mathematics & Algorithmic Targeting",
+  "audience": "Aspiring performance marketers, media planners and buyers, paid-social and paid-search specialists, programmatic traders, and agency account leads who must operate the auction machinery, interrogate platform algorithms, and defend every media dollar with mathematics rather than dashboard faith.",
+  "sources": [
+    "IAB Tech Lab standards — OpenRTB protocol specification, ads.txt, sellers.json, and SupplyChain object documentation defining the technical plumbing of programmatic",
+    "Google Ads and Meta Ads official documentation — auction mechanics, quality and ranking systems, smart-bidding behavior, and measurement infrastructure as the platforms define them",
+    "Tim Hwang, Subprime Attention Crisis — the investigative analysis of ad-tech opacity, fraud inflation, and the economics of unreliable digital advertising",
+    "ISBA/Jounce Media and ANA programmatic supply-chain transparency studies — the empirical documentation of where programmatic dollars actually flow, including fees, resellers, and arbitrage",
+    "Media Rating Council (MRC) standards — viewability, invalid traffic, and measurement accreditation criteria that define industry-legitimate metrics",
+    "Google/Meta/TikTok engineering blog literatures on ranking and recommendation systems — primary-source descriptions of feed and ad auction algorithm behavior"
+  ],
+  "pitfalls": [
+    "Platform-report credulity: accepting self-reported impressions, conversions, and lift from platforms grading their own homework without independent verification or triangulation",
+    "Vanity-reach buying: optimizing for cheap CPMs that accumulate invalid traffic, made-for-advertising sites, and unseen impressions while genuine reach collapses",
+    "Smart-bidding black-box surrender: handing budget and signal authority to automated bidding without understanding what conversion events feed the machine or how learning phases behave",
+    "Supply-chain ignorance: never tracing where media dollars actually land — intermediaries, reseller markups, and arbitrage paths consuming working media silently",
+    "Privacy-era denial: building targeting and measurement plans on deprecated identifiers and tracking assumptions that regulation and platform policy have already invalidated"
+  ]
+}

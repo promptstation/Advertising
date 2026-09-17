@@ -1,0 +1,24 @@
+{
+  "course_number": 6,
+  "course_title": "Creative Writing & Visual Rhetoric",
+  "folder": "06-Creative-Writing-and-Visual-Rhetoric",
+  "discipline_framing": "The creative-craft discipline of advertising — mastering the art of the hook, compelling story, brand positioning in words, and persuasive copy delivered in under three seconds, spanning classical and modern rhetoric, narrative structure, copywriting systems, brand voice engineering, visual argument and design fundamentals, format-specific craft, conversion writing, the creative process, and the truth-in-advertising ethics that bound persuasive craft.",
+  "domain_short": "Creative Writing & Visual Rhetoric",
+  "audience": "Aspiring advertising copywriters, creative directors, content marketers, social-media creatives, brand storytellers, and founder-marketers who must produce hooks, narratives, and copy that stop attention and convert it — and who need the rhetorical grounding and testing discipline that separate professional craft from guesswork.",
+  "sources": [
+    "Aristotle, On Rhetoric — the foundational system of ethos, pathos, and logos whose twenty-four-century framework still organizes persuasive analysis",
+    "Eugene Schwartz, Breakthrough Advertising — the masterwork of market-awareness and sophistication stages, desire channeling, and headline-body systems",
+    "David Ogilvy, Ogilvy on Advertising — the practitioner canon of headline discipline, research-grounded copy, and brand-building craft",
+    "Chip Heath & Dan Heath, Made to Stick — the SUCCESs framework of simple, unexpected, concrete, credible, emotional, story-based idea design",
+    "Donald Miller, Building a StoryBrand — the customer-as-hero narrative framework that organizes brand story around customer transformation",
+    "Scott McCloud, Understanding Comics — the visual-grammar analysis of how images, sequence, and closure create meaning and persuasion",
+    "U.S. Federal Trade Commission truth-in-advertising guidance — the substantiation and deception standards that bound commercial creative"
+  ],
+  "pitfalls": [
+    "Cleverness-over-clarity: award-bait wordplay and conceptual fireworks that entertain juries while confusing the actual customer about what is being sold",
+    "Hook-without-substance: three-second attention captured by a striking opening that the body copy, offer, or product experience then fails to deliver on, buying clicks that bounce",
+    "Voice schizophrenia: campaigns, channels, and writers producing mutually inconsistent brand language so no verbal identity ever compounds into recognition",
+    "Decoration-design: visuals treated as aesthetic garnish beside the copy rather than as argument carrying meaning, wasting the fastest-processing persuasive channel",
+    "Untested-creative-ego: refusing iteration evidence because creative work is art, letting personal taste override audience response data until performance collapse forces humility"
+  ]
+}

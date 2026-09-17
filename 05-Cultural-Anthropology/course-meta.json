@@ -1,0 +1,24 @@
+{
+  "course_number": 5,
+  "course_title": "Cultural Anthropology",
+  "folder": "05-Cultural-Anthropology",
+  "discipline_framing": "The cultural-literacy discipline of advertising — how subcultures form, how language evolves, and how trends spread, studied through the anthropological toolkit of ethnography, semiotics, and cultural analysis so that advertisers avoid tone-deaf campaigns and speak authentically to highly specific demographics rather than to demographic caricatures.",
+  "domain_short": "Cultural Anthropology",
+  "audience": "Aspiring advertising strategists, brand planners, creative directors, social and community marketers, and trend analysts who must understand the cultural worlds their audiences inhabit — and who need fieldwork discipline and ethical grounding to convert cultural observation into authentic strategy rather than appropriation.",
+  "sources": [
+    "Clifford Geertz, The Interpretation of Cultures — the foundational statement of culture as webs of meaning and the thick-description method that defines ethnographic interpretation",
+    "Douglas Holt, How Brands Become Icons — cultural branding theory where brands achieve iconic status by addressing societal contradictions through mythic narratives",
+    "Grant McCracken, Culture and Consumption — the anthropology of consumer meaning transfer from culturally constituted world to goods to individuals",
+    "Everett Rogers, Diffusion of Innovations — the canonical framework of how change spreads through populations via innovators, early adopters, and opinion leadership",
+    "Pierre Bourdieu, Distinction — taste, cultural capital, and class reproduction as the structural engine of consumption difference",
+    "Robert Kozinets, Netnography — the adapted ethnographic method for studying online communities with its embedded ethics protocols",
+    "Stuart Hall, Representation — the cultural-studies framework of how meaning is produced through representation, stereotype, and power"
+  ],
+  "pitfalls": [
+    "Stereotype laundering: dressing demographic caricatures in anthropological vocabulary and calling them cultural insight, then building campaigns nobody in the actual community recognizes",
+    "Appropriation without participation: deploying subcultural codes, slang, and aesthetics with no relationship, credibility, or reciprocity toward the community that produced them",
+    "Trend-chasing latency: mistaking documentation of what already peaked for prediction, arriving at subcultural trends precisely when their originating communities are abandoning them",
+    "Armchair ethnography: substituting hours of feed scrolling for sustained immersive fieldwork, producing thin description that misses context, contradiction, and meaning",
+    "Generational horoscopes: treating Boomers, Millennials, and Gen Z as uniform personalities while ignoring the class, geography, ethnicity, and life-stage variation that actually structures behavior"
+  ]
+}
